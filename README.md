@@ -1,2 +1,2 @@
-# ERC777-Escrow-smart-contract
+# Escrow smart contract
 An Escrow smart contract for a DAO implemented with an ERC777
